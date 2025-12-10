@@ -30,6 +30,13 @@ Dans l’onglet Network, sélectionner le réseau Wi-Fi de production et saisir 
 
 Ouvrir https://console.r42.local depuis le navigateur.
 Se connecter avec un compte administrateur.
+
+Entrez les lignes de codes suivantes dans un terminal :
+```bash
+npm run dev
+```
+
+
 Cliquer sur Ajouter un robot puis scanner le QR code du R-42.
 Attribuer un nom lisible (ex. : R42-Entrepot-A-01).
 4. Mise à jour et calibrage de base
