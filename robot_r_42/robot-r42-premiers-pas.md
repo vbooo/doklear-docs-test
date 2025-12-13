@@ -8,7 +8,7 @@ Une fois allumé, cliquez sur le bouton démarrer puis suis les instructions aff
 
 ## Configuration
 
-Le robot est prêt.
+Tu dois configurer la puce pour que le robot fonctionne.
 
 ## Conclusion
 
