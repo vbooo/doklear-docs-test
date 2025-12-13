@@ -1,0 +1,36 @@
+# Diagnostic complet du robot R-42
+
+## Introduction
+
+Ce document décrit l’ensemble des procédures de diagnostic disponibles pour le robot R-42 dans toutes les situations possibles incluant les erreurs matérielles, logicielles, réseau, d’alimentation, de capteurs, de communication interne, ainsi que les scénarios combinés pouvant survenir dans des environnements industriels complexes où plusieurs facteurs peuvent interagir simultanément et provoquer des comportements difficiles à analyser sans une méthode rigoureuse et exhaustive.
+
+## Diagnostic matériel
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+
+## Diagnostic logiciel
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+## Conclusion
+
+Fin du document.
