@@ -1,17 +1,21 @@
 # Sécurité du robot R-42
 
-## Consignes générales
+## Prérequis
 
-Avant toute intervention, assurez-vous que le robot est éteint et débranché.
+- Gants isolants
+- Zone dégagée
+- Robot hors tension
 
-Avant toute intervention, assurez-vous que le robot est éteint et débranché.
+## Installation
 
-Avant toute intervention, assurez-vous que le robot est éteint et débranché.
+1. Coupez l’alimentation.
+2. Débranchez le câble principal.
 
-## Sécurité électrique
+## Configuration
 
-Avant toute intervention, assurez-vous que le robot est éteint et débranché.
+1. Vérifiez l’état des connecteurs.
+2. Replacez le capot.
 
-## Sécurité mécanique
+## Conclusion
 
-Avant toute intervention, assurez-vous que le robot est éteint et débranché.
+Ces précautions limitent les risques.
