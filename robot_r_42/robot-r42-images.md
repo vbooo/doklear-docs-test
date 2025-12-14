@@ -1,9 +1,19 @@
 # Illustrations du robot R-42
 
+## Prérequis
+
+Avoir accès au panneau de contrôle.
+
+## Installation
+
+![Panneau de contrôle](images/panel.png)
+![Panneau de contrôle](images/panel2.png)
+
+## Configuration
+
 ![Carte mère](images/board.png)
 ![Carte mère](images/board2.png)
-![Carte mère](images/board3.png)
 
-Le robot R-42 est un système modulaire.
+## Conclusion
 
-![Image non référencée](images/unused.png)
+Ces images illustrent les emplacements clés.
