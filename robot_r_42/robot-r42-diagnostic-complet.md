@@ -72,9 +72,13 @@ Le robot R-42 peut présenter des symptômes intermittents lorsque l’alimentat
 
 Le robot R-42 peut présenter des symptômes intermittents lorsque l’alimentation fluctue, lorsque le bus interne subit des collisions, ou lorsque certains capteurs renvoient des valeurs incohérentes pendant une séquence de démarrage prolongée, ce qui nécessite de vérifier méthodiquement chaque étape avant de conclure.
 
-## Configuration
+## Mon robot me renvoie une erreur 404
 
-Quelques réglages rapides.
+Si votre robot vous renvoie une erreur 404 sur son écran, alors cela veut dire qu'il n'a plus accès au réseau wifi. Vous devez donc suivre les étapes suivantes :
+
+- Vérifiez votre connexion internet
+- Assurez-vous que la carte réseau de votre robot est fonctionnelle
+- Lancez à nouveau la connexion de votre robot à votre réseau préféré
 
 ## Conclusion
 
